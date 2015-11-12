@@ -1,0 +1,7 @@
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_1_4–lab\CSharp_Net-module1_1_4–lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe.config
+D:\C_Sharp\114\CSharp_Net-module1_1_4-lab\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe.config
+D:\C_Sharp\114\CSharp_Net-module1_1_4-lab\CSharp_Net-module1_1_4-lab\obj\Debug\CSharp_Net-module1_1_4-lab.csprojResolveAssemblyReference.cache
+D:\C_Sharp\114\CSharp_Net-module1_1_4-lab\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe
+D:\C_Sharp\114\CSharp_Net-module1_1_4-lab\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.pdb
+D:\C_Sharp\114\CSharp_Net-module1_1_4-lab\CSharp_Net-module1_1_4-lab\obj\Debug\CSharp_Net-module1_1_4–lab.exe
+D:\C_Sharp\114\CSharp_Net-module1_1_4-lab\CSharp_Net-module1_1_4-lab\obj\Debug\CSharp_Net-module1_1_4–lab.pdb
